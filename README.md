@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ensarerenoglu](https://github.com/mesuterenoglu)
+- 👨‍💻 All of my projects are available at [https://github.com/mesuterenoglu](https://github.com/mesuterenoglu)
 
 - 📫 How to reach me **mesut.erenoglu@hotmail.com**
 
