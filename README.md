@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **C# and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ensarerenoglu](https://github.com/ensarerenoglu)
+- 👨‍💻 All of my projects are available at [https://github.com/ensarerenoglu](https://github.com/mesuterenoglu)
 
-- 📫 How to reach me **ensarerenoglu@gmail.com**
+- 📫 How to reach me **mesut.erenoglu@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mesut-ensar-erenoglu/](https://www.linkedin.com/in/mesut-ensar-erenoglu/)
 
