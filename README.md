@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mesut Ensar Erenoğlu</h1>
 <h3 align="center">I have a master's degree from Bahcesehir University, Department of Information Technologies.</h3>
 
-- 🌱 I’m currently working as a .Net Developer at Alphastellar Software AS, Turkey, to provide solutions to an insurance company based in the United States.
+- 🌱 I’m currently working as a .Net Developer at Alphastellar Software AS to provide solutions to an insurance company based in the United States from the Netherlands where I have been living since May 2023.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mesuterenoglu](https://github.com/mesuterenoglu)
 
